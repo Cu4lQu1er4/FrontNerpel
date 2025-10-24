@@ -26,32 +26,32 @@ export default function Navbar() {
             </button>
 
             <div
-              className="absolute top-full left-0 bg-white shadow-lg rounded-md mt-2 py-2 w-56 opacity-0 invisible translate-y-2 
+              className="absolute top-full left-0 bg-white shadow-lg rounded-md mt-0 py-2 w-56 opacity-0 invisible translate-y-2 
                          group-hover:opacity-100 group-hover:visible group-hover:translate-y-0 
                          transition-all duration-300 ease-out"
             >
-              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-gray-700">
+              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-dark">
                 Peluche Pelo Corto
               </Link>
               <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-gray-700">
                 Peluche Pelo Medio
               </Link>
-              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-gray-700">
+              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-dark">
                 Peluche Pelo Largo
               </Link>
-              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-gray-700">
+              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-dark">
                 Peluche Ovejero
               </Link>
-              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-gray-700">
+              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-dark">
                 Peluche Microovejero
               </Link>
-              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-gray-700">
+              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-dark">
                 Peluche Ovejero Cuadros
               </Link>
-              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-gray-700">
+              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-dark">
                 Peluche Pelo Jacquard
               </Link>
-              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-gray-700">
+              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-dark">
                 Relleno Siliconado
               </Link>
             </div>
@@ -65,29 +65,29 @@ export default function Navbar() {
             </button>
 
             <div
-              className="absolute top-full left-0 bg-white shadow-lg rounded-md mt-2 py-2 w-56 opacity-0 invisible translate-y-2 
+              className="absolute top-full left-0 bg-white shadow-lg rounded-md mt-0 py-2 w-56 opacity-0 invisible translate-y-2 
                          group-hover:opacity-100 group-hover:visible group-hover:translate-y-0 
                          transition-all duration-300 ease-out"
             >
-              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-gray-700">
+              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-dark">
                 Felpa Industrial Liviana
               </Link>
-              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-gray-700">
+              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-dark">
                 Felpa Industrial Intermedia
               </Link>
-              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-gray-700">
+              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-dark">
                 Felpa Industrial Profesional
               </Link>
-              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-gray-700">
+              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-dark">
                 Felpa Industrial Epoxico
               </Link>
-              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-gray-700">
+              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-dark">
                 Felpa Industrial Ovejera
               </Link>
-              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-gray-700">
+              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-dark">
                 Felpa Industrial Polilana
               </Link>
-              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-gray-700">
+              <Link href="/" className="block px-4 py-2 hover:bg-gray-100 text-dark">
                 Felpa Antigoteo
               </Link>
             </div>
